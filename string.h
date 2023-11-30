@@ -72,4 +72,6 @@ string string_from_literal(const char *literal) {
     return res;
 }
 
+
+
 #endif
